@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Amar</h1>
 <h3 align="center">A passionate frontend developer </h3>
-<img align="right" alt="coding" with="100" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
+<!-- <img align="right" alt="coding" with="100" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif"> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
